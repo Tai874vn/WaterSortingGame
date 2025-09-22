@@ -39,6 +39,7 @@ const Game = () => {
       <div className="game-instructions">
         <p>Click on a tube to select it, then click on another tube to pour water.</p>
         <p>Sort all colors into their own tubes to win!</p>
+        <p>PhuongLinhCatto</p>
       </div>
       <div ref={gameRef} className="phaser-game"></div>
     </div>
